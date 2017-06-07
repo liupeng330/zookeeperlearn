@@ -2,7 +2,6 @@ package me.pengliu;
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.data.Stat;
-import org.omg.CORBA.INTERNAL;
 
 import java.util.concurrent.CountDownLatch;
 
